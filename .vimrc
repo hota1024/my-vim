@@ -1,5 +1,5 @@
-# Load vundle 
+" Load vundle 
 source ~/dotfiles/.vundle
 
-# Load native config
+" Load native config
 source ~/dotfiles/.native
